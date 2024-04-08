@@ -35,6 +35,6 @@ The inputs go, with frame 1 being the turnaround frame: \
 Frame 1: turnaround (left) \
 Frame 2: turn back around (right) \
 Frame 3: neutral climbjump (grab+jump) \
-Frame 4: wallboost (left) \
+Frame 4: wallboost (left) 
 </details>
 
