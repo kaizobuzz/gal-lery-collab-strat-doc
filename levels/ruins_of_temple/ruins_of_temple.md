@@ -2,8 +2,9 @@
 
 <details>
 <summary>Subpixel manip for start</summary>
-Do two crouch jumps and then a fulljump into full climbjump then climb down, then press left for a frame.
-<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/6tilesubpixelmanip.mp4" width="320" height="240" controls></img>
+Do two crouch jumps and then a fulljump into full climbjump then climb down, then press left for a frame. 
+
+![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/6tilesubpixelmanip.mp4)
 </details>
 
 <details>
