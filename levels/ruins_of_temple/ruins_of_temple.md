@@ -3,7 +3,7 @@
 <details>
 <summary>Subpixel manip for start</summary>
 Do two crouch jumps and then a fulljump into full climbjump then climb down, then press left for a frame.
-<video src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/6tilesubpixelmanip.mp4" width="320" height="240" controls></video>
+<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/6tilesubpixelmanip.mp4" width="320" height="240" controls></img>
 </details>
 
 <details>
@@ -36,5 +36,28 @@ Frame 1: turnaround (left) \
 Frame 2: turn back around (right) \
 Frame 3: neutral climbjump (grab+jump) \
 Frame 4: wallboost (left) 
+</details>
+
+### Try to retry as fast as possible after picking up each key 
+
+### Top left key
+<details>
+<summary>Early drop during entry</summary>
+</details>
+
+<details>
+<summary> Lantern climb strat</summary>
+</details>
+
+### Bottom right key
+
+<details>
+<summary>Path for fully fastfalling</summary>
+</details>
+
+### Top right Key 
+
+<details>
+<summary>Lantern slowfall strat</summary>
 </details>
 
