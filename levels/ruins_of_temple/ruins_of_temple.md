@@ -9,27 +9,27 @@ Do two crouch jumps and then a fulljump into full climbjump then climb down, the
 <details>
 <summary>Cue for first climbjump</summary> 
 
-With hitboxes
-<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/climbjump1hitboxes.png"></img>
-Without hitboxes
-<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/climbjump1wohitboxes.png"></img>
+With hitboxes \
+<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/climbjump1hitboxes.png"></img> \
+Without hitboxes \
+<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/climbjump1wohitboxes.png"></img> \
 </details>
 
 <details>
 <summary>Cue for second climbjump</summary>
 
-With hitboxes
-<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/climbjump2hitboxes.png"></img>
-Without hitboxes
-<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/climbjump2wohitboxes.png"></img>
+With hitboxes \
+<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/climbjump2hitboxes.png"></img> \
+Without hitboxes \
+<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/climbjump2wohitboxes.png"></img> \
 </details>
 
 <details>
 <summary>Cue for turnaround+inputs after</summary>
 
-With hitboxes
-<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/climbjump3hitboxes.png"></img>
-Without hitboxes
-<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/climbjump3wohitboxes.png"></img>
+With hitboxes \
+<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/turnaroundhitboxes.png"></img> \
+Without hitboxes \
+<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/turnaroundwohitboxes.png"></img> \
 
 </details>
