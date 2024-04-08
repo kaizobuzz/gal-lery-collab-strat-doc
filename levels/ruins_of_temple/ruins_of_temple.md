@@ -44,21 +44,35 @@ Frame 4: wallboost (left)
 ### Top left key
 <details>
 <summary>Early drop during entry</summary>
+
+![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/topleftentrystrat.webp)
+
 </details>
 
 <details>
 <summary> Lantern climb strat</summary>
+
+![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/topleftlanternclimb.webp)
+
+
 </details>
 
 ### Bottom right key
 
 <details>
 <summary>Path for fully fastfalling</summary>
+
+![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/bottomrightfastfall.webp)
+
 </details>
 
 ### Top right Key 
 
 <details>
 <summary>Lantern slowfall strat</summary>
+
+![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/toprightlanternslowfall.webp)
+
+
 </details>
 
