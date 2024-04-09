@@ -1,4 +1,3 @@
-![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/bloom_wanderer/images/.webp)
 ### Dashless section 
 
 <details>
