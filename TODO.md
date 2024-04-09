@@ -6,7 +6,6 @@
 - Stardust Ruins
 - Gravity Flow
 - Red Horizon
-- Bloom Wanderer
 - City of Silence
 - FR-C2
 - Cyber Roam
@@ -22,3 +21,4 @@
 - Terminal: irisu
 - Dream Ridge: irisu 
 - B612: irisu
+- Bloom Wanderer: kaizo
