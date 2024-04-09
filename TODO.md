@@ -19,7 +19,6 @@
 - Dream in Rhythm
 - The Artside
 ## In progress
-- Starry Summit: kaizo
 - Terminal: irisu
 - Dream Ridge: irisu 
 - B612: irisu
