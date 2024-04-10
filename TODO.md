@@ -20,6 +20,5 @@
 - Terminal: irisu
 - Dream Ridge: irisu 
 - B612: irisu
-- Hazy Space: kaizo
 - Bloom Wanderer
 
