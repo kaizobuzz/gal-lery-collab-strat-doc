@@ -14,11 +14,12 @@
 - Momentum Purgatory
 - Sailing Star Phantom
 - Covered in Dust
-- Hazy Space
 - Dream in Rhythm
 - The Artside
 ## In progress
 - Terminal: irisu
 - Dream Ridge: irisu 
 - B612: irisu
-- Bloom Wanderer: kaizo
+- Hazy Space: kaizo
+- Bloom Wanderer
+
