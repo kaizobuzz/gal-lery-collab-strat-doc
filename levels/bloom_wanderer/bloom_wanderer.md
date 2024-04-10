@@ -65,7 +65,7 @@ The height of the cornerkick is a 12f jump, meaning you can release anywhere fro
 <details>
 <summary>08 middle part</summary>
 
-![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/bloom_wanderer/images/r2withdashmiddle.webp)
+![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/bloom_wanderer/images/r2withdashmiddlestrat.webp)
 </details>
 
 <details>
