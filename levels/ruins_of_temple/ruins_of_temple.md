@@ -33,10 +33,10 @@ With hitboxes \
 Without hitboxes \
 <img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/turnaroundwohitboxes.png"></img> \
 The inputs go, with frame 1 being the turnaround frame: \
-Frame 1: turnaround (left) \
-Frame 2: turn back around (right) \
+Frame 1: turnaround (left+hold jump) \
+Frame 2: turn back around (right+hold jump) \
 Frame 3: neutral climbjump (grab+jump) \
-Frame 4: wallboost (left) 
+Frame 4: wallboost (left+hold jump) 
 </details>
 
 ### Try to retry as fast as possible after picking up each key 
