@@ -21,4 +21,5 @@
 - Dream Ridge: irisu 
 - B612: irisu
 - Bloom Wanderer
+- Starry Summit: kaizo (checking new strats)
 
