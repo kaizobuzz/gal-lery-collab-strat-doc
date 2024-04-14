@@ -27,6 +27,12 @@ TODO
 </details>
 
 <details>
+<summary>04k1 cornerjump</summary>
+
+![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/bloom_wanderer/images/key1cjump.webp)
+</details>
+
+<details>
 <summary>05 lockbox jump</summary>
 
 A bit after the keyturn is a possible visual cue

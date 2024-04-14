@@ -32,7 +32,7 @@ Then, 1f jump for the coost and hold down for a slight bit to not collide with t
 </details>
 
 <details>
-<summary>lvl_ahayo_2 start</summary>
+<summary>lvl_ahayo_4 start</summary>
 
 ![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/city_in_silence/images/lvl_ahayo_4_start.webp)
 </details>
