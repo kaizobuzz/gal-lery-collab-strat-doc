@@ -21,3 +21,9 @@
 
 ![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/hazy_space/images/a_08seminyoom.webp)
 </details>
+
+<details>
+<summary>a_07 dream block optimization</summary>
+
+![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/hazy_space/images/a_08dreamblock.webp)
+</details>
