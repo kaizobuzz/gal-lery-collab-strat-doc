@@ -6,7 +6,6 @@
 - Stardust Ruins
 - Gravity Flow
 - Red Horizon
-- City of Silence
 - FR-C2
 - Cyber Roam
 - Game Development Department
@@ -18,8 +17,6 @@
 - The Artside
 ## In progress
 - Terminal: irisu
-- Dream Ridge: irisu 
-- B612: irisu
+- B612: boxy
 - Bloom Wanderer
-- Starry Summit: (needs visual cue for the SS_a_05 skip)
 
