@@ -9,14 +9,14 @@
 - FR-C2
 - Cyber Roam
 - Game Development Department
-- Reverse Unreversed
 - Momentum Purgatory
 - Sailing Star Phantom
 - Covered in Dust
 - Dream in Rhythm
 - The Artside
 ## In progress
-- Terminal: irisu
+- Reverse Unreversed: irisu
+- Terminal: nilrem (and others possibly)
 - B612: boxy
-- Bloom Wanderer
+- Bloom Wanderer: irisu
 
