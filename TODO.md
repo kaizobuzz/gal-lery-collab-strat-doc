@@ -10,7 +10,6 @@
 - Game Development Department
 - Momentum Purgatory
 - Sailing Star Phantom
-- Covered in Dust
 - Dream in Rhythm
 - The Artside
 ## In progress
