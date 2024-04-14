@@ -8,7 +8,6 @@
 - FR-C2
 - Cyber Roam
 - Game Development Department
-- Momentum Purgatory
 - Sailing Star Phantom
 - Dream in Rhythm
 - The Artside
