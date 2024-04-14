@@ -2,7 +2,6 @@
 - Blueberry Jelly Valley
 - Reality 209
 - Afterglow Summit
-- After Rain
 - Stardust Ruins
 - Gravity Flow
 - Red Horizon
@@ -19,4 +18,3 @@
 - Terminal: nilrem (and others possibly)
 - B612: boxy
 - Bloom Wanderer: irisu
-
