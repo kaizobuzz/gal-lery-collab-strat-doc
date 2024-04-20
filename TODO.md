@@ -1,7 +1,6 @@
 ## Not started Levels
 - Blueberry Jelly Valley
 - Reality 209
-- Afterglow Summit
 - Stardust Ruins
 - Gravity Flow
 - Red Horizon
@@ -12,6 +11,7 @@
 - Dream in Rhythm
 - The Artside
 ## In progress
+- Afterglow Summit
 - Reverse Unreversed: irisu
 - Terminal: nilrem (and others possibly)
 - B612: boxy
