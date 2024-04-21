@@ -32,14 +32,14 @@ Max height cornerjump while holding right sets up the 5jump to be a buffer
 ### StarMADWMY_06
 <details>
 <summary>Bubble Loop Skip</summary>
-
+ 
 This strat skips the second loop around in the dream bubble at the end of the room. \
 First, start by updashing at this spring.  By not extending the wavedash on the previous platform, this input can be made into a buffer. \
 ![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/terminal/images/gallery_collab_terminal_starMADWMY_06_buffer_updash_on_spring.webp)
 
 Then, choose one of two ways to get into the bubble.  The cornerjump is about 1 second faster but much more difficult. \
 Reverse Wavedash: \
-![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/terminal/images/gallery_collab_terminal_starMADWMY_06_bubble_skip_reverse_wavedash.webp)
+![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/terminal/images/gallery_collab_terminal_starMADWMY_06_bubble_skip_reverse_wavedash.webp) \
 Cornerjump: \
 ![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/terminal/images/gallery_collab_terminal_starMADWMY_06_bubble_skip_cornerjump.webp)
 </details>
