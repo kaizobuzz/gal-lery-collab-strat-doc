@@ -82,8 +82,8 @@ Hold jump until this frame, then climbjump again: \
 <img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/3x1_into_2x1_2nd_climbjump.png"></img>
 
 Hold jump until this frame: \
-<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/3x1_into_2x1_3rd_climbjump.png"></img>
-Then, pausebuffer this sequence: \
+<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/3x1_into_2x1_3rd_climbjump.png"></img> \
+Then, pausebuffer this sequence: 
 | Frame | Inputs |
 | ----- | ------ |
 | 1     | Neutral Climbjump |
@@ -94,7 +94,7 @@ Then, pausebuffer this sequence: \
 | 6-11  | Hold Left |
 | 12+   | Hold Left and Jump until the frame madeline uncrouches |
 
-Alternatively : \
+Alternatively : 
 | Frame | Inputs |
 | ----- | ------ |
 | 1     | Neutral Climbjump |
