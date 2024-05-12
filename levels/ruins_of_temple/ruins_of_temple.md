@@ -91,8 +91,8 @@ Then, pausebuffer this sequence:
 | 3     | Hold right and jump |
 | 4     | Hold no direction and jump |
 | 5     | Neutral climbjump |
-| 6-11  | Hold Left |
-| 12+   | Hold Left and Jump until the frame madeline uncrouches |
+| 6-11  | Hold left |
+| 12+   | Hold left and jump until the frame madeline uncrouches |
 
 Alternatively : 
 | Frame | Inputs |
@@ -102,8 +102,9 @@ Alternatively :
 | 3     | Hold right (release jump) |
 | 4     | Hold no direction |
 | 5     | Neutral climbjump |
-| 6     | Hold Left |
-| 7-12   | Hold Left and press jump at some point during this window, and hold them until the frame madeline uncrouches|
+| 6     | Hold left |
+| 7-11  | Hold left and press and hold jump at some point during this window|
+| 12+   | Hold left and jump until the frame madeline uncrouches |
 
 When madeline uncrouches, jump for one frame and then hold left.  buffer a cornerkick to finish the room.
 </details>
